@@ -1,0 +1,8 @@
+{
+  "appService.zipIgnorePattern": [
+    "node_modules{,/**}",
+    ".vscode{,/**}"
+  ],
+  "appService.defaultWebAppToDeploy": "/subscriptions/74a79e74-f5d9-44c5-8694-73ac8801c1b9/resourceGroups/appsvc_linux_centralus_premium/providers/Microsoft.Web/sites/mexpress",
+  "appService.deploySubpath": "."
+}
